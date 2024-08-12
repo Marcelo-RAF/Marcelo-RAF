@@ -1,5 +1,5 @@
 ### Olá, eu sou o Marcelo Ferreira !
-    Sou aluno de Doutorado em Matemática Aplicada pela Universidade Estadual do Paraná.
+    Sou aluno de Doutorado em Matemática Aplicada pela Universidade Estadual de Maringá.
     
 <div align="center">
   <a href="https://github.com/marcelo-raf">
